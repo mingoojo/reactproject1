@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.black-nav{
+  background-color: #222;
+  color: white;
+  width: 100%;
+  padding: 3rem;
+  text-align: left;
+}
+
+.list{
+  text-align: left;
+  border-bottom: 1px solid #222;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
